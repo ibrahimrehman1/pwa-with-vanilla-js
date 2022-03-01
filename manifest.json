@@ -1,7 +1,7 @@
 {
   "name": "PWA",
   "short_name": "PWA",
-  "start_url": "/",
+  "start_url": "/pwa-with-vanilla-js/",
   "description": "I am a PWA",
   
   "icons": [
